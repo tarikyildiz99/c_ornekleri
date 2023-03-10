@@ -1,4 +1,4 @@
-//Kullanıcıdan aldığı küçük harfi büyük yapacak program
+//Kullanıcıdan aldığı küçük harfi büyük yapacak kod
 //Türkçe karakterleri yapamaz sadece ASCII tablosundaki harfler için
 #include<stdio.h>
 
