@@ -1,3 +1,3 @@
 # c_ornekleri
 Basit c dili örnekleri
-Burada paylaştığım örnekler kendim öğrenirken yaptığım uygulamalardan ibaret olacaklar
+Burada paylaştığım örnekler oradan buradan rastgele bir şekilde bulduğum, kendim öğrenirken yaptığım uygulamaların bir kopyası.
