@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <limits.h>
+#include <locale.h>
 
 int maxSayi(int dizi[], int argumanSayisi){
     int minDeger = dizi[0];
@@ -13,6 +13,7 @@ int maxSayi(int dizi[], int argumanSayisi){
 }
 
 int main(void){
+    setlocale(LC_ALL, "Turkish");
 
     short argumanSayisi;
     printf("Kaç tane sayı gireceğinizi belirtiniz: ");
